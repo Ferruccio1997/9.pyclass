@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "9-pyclass"
+version = "0.1.0"
+description = ""
+authors = ["ferruccio_ribeiro <ferruccioribeiro@outlook.com>"]
+readme = "README.md"
+packages = [{include = "9"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+loguru = "^0.7.3"
+pandas = "^2.2.3"
+fastparquet = "^2024.11.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
