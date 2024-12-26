@@ -1,0 +1,26 @@
+2024-12-26T15:07:48.643171-0300 - INFO - Executando add com args = (2, 3) kwargs = {}
+2024-12-26T15:07:48.644145-0300 - INFO - add retornou 5
+2024-12-26T15:08:47.645657-0300 - INFO - Executando add com args = (2, '3') kwargs = {}
+2024-12-26T15:08:47.646251-0300 - ERROR - Erro na execuçao de add: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-26T15:09:29.844818-0300 - INFO - Executando add com args = (2, '3') kwargs = {}
+2024-12-26T15:09:29.846813-0300 - ERROR - Erro na execuçao de add: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-26T15:09:29.847825-0300 - INFO - Executando add com args = (2, 'j') kwargs = {}
+2024-12-26T15:09:29.847825-0300 - ERROR - Erro na execuçao de add: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-26T15:09:29.848809-0300 - INFO - Executando add com args = (2, 4) kwargs = {}
+2024-12-26T15:09:29.849811-0300 - INFO - add retornou 6
+2024-12-26T15:20:43.064665-0300 - INFO - Executando add com args = (2, '3') kwargs = {}
+2024-12-26T15:20:43.065622-0300 - ERROR - Erro na execuçao de add: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-26T15:20:43.066628-0300 - INFO - Executando add com args = (2, 'j') kwargs = {}
+2024-12-26T15:20:43.067511-0300 - ERROR - Erro na execuçao de add: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-26T15:20:43.068549-0300 - INFO - Executando add com args = (2, 4) kwargs = {}
+2024-12-26T15:20:43.069104-0300 - INFO - add retornou 6
+2024-12-26T15:20:43.070042-0300 - INFO - Executando add com args = (2, 3) kwargs = {}
+2024-12-26T15:20:43.070042-0300 - INFO - add retornou 5
+2024-12-26T15:21:25.421375-0300 - INFO - Executando add com args = (2, '3') kwargs = {}
+2024-12-26T15:21:25.422626-0300 - ERROR - Erro na execuçao de add: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-26T15:21:25.424039-0300 - INFO - Executando add com args = (2, 'j') kwargs = {}
+2024-12-26T15:21:25.424601-0300 - ERROR - Erro na execuçao de add: unsupported operand type(s) for +: 'int' and 'str'
+2024-12-26T15:21:25.425615-0300 - INFO - Executando add com args = (2, 4) kwargs = {}
+2024-12-26T15:21:25.425615-0300 - INFO - add retornou 6
+2024-12-26T15:21:25.426879-0300 - INFO - Executando add com args = (2, 3) kwargs = {}
+2024-12-26T15:21:25.427911-0300 - INFO - add retornou 5
